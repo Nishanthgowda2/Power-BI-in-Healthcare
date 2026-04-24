@@ -1,7 +1,8 @@
-🏥 Power BI in Healthcare
-📌 Project Overview
+Power BI in Healthcare
+Project Overview
+This project focuses on implementing data analytics and predictive insights in the healthcare domain using Power BI. The goal is to transform raw hospital data into meaningful, actionable insights that support efficient decision-making and resource management.
 
-A hospital required support in implementing predictive analytics and forecasting across multiple healthcare operations. This project leverages Power BI to transform raw healthcare data into meaningful insights, enabling data-driven decision-making.
+Healthcare organizations often deal with large volumes of data related to patients, staff, and resources. This project demonstrates how data visualization and forecasting techniques can improve operational efficiency and planning.
 
 🎯 Objective
 
