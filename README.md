@@ -55,7 +55,8 @@ PowerBI
 Healthcare Dashboard.pbix
 
 Images
-dashboard_screenshots.png
+<img width="1317" height="810" alt="Screenshot 2026-04-24 143934" src="https://github.com/user-attachments/assets/d83e0dee-dc19-4aab-ae25-6be15a3927c0" />
+
 
 README.md
 
