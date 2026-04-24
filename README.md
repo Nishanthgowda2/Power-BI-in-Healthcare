@@ -26,11 +26,6 @@ Resource utilization forecasting including beds staff and equipment
 KPI dashboards for hospital performance monitoring
 Interactive reports with drill down and filtering capabilities
 
-## Dashboard Preview
-
-Add your Power BI dashboard screenshots here for better visualization
-![Dashboard Screenshot](link_here)
-
 ## Insights and Outcomes
 
 Improved forecasting accuracy for hospital resources
